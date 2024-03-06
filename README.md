@@ -6,7 +6,7 @@ Fokus is a productivity tool inspired by the Pomodoro technique, designed to enh
 
 Users can seamlessly switch between timers to effectively manage their time, ensuring optimal productivity and concentration. Fokus empowers users to streamline their workflow, maintain focus, and achieve their goals efficiently by providing a simple and intuitive interface for time management.
 
-This software was developed without commercial purposes
+Built with HTML, CSS, and JavaScript, this software was developed without commercial purposes.
 
 
 ![screencapture-file-Users-julia1-Documents-Projetos-Fokus-index-html-2024-03-06-17_22_12](https://github.com/juliamachad/Fokus/assets/64756425/66ffa0b8-2580-481a-8e4f-9dd328b493f4)
